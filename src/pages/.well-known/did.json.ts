@@ -26,7 +26,7 @@ export function GET() {
           type: "Multikey",
           controller: "did:web:nashproto.com",
           publicKeyMultibase:
-            "zQ3shV9a5gKTkraUDNvjw2VnjRkmmYur1NiU8rFGVPhzy1XvS",
+            "zQ3shvH5ARNeMyanEEVngEvKoknNz1fJemka1yPvfdVjwzm3Z",
         },
       ],
       service: [
